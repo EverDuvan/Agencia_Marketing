@@ -1,6 +1,4 @@
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
-import store from './store';
-import {Provider} from 'react-redux';
 import Error404 from './containers/errors/Error404';
 import Home from './containers/pages/Home';
 
